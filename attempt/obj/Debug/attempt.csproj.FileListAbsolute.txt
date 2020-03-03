@@ -1,0 +1,14 @@
+C:\Users\vmolc\source\repos\winform\attempt\bin\Debug\attempt.exe.config
+C:\Users\vmolc\source\repos\winform\attempt\bin\Debug\attempt.exe
+C:\Users\vmolc\source\repos\winform\attempt\bin\Debug\attempt.pdb
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\attempt.csprojAssemblyReference.cache
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\MainWindow.g.cs
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\App.g.cs
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\attempt_MarkupCompile.cache
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\attempt_MarkupCompile.lref
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\MainWindow.baml
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\attempt.g.resources
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\attempt.Properties.Resources.resources
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\attempt.csproj.GenerateResource.cache
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\attempt.exe
+C:\Users\vmolc\source\repos\winform\attempt\obj\Debug\attempt.pdb
